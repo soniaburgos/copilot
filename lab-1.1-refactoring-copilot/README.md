@@ -264,5 +264,3 @@ Si completas el lab antes del tiempo estimado, intenta:
 ---
 
 **Versión**: 1.0  
-**Última actualización**: 2024  
-**Tiempo estimado**: 2-3 horas
