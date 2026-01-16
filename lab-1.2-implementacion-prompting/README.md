@@ -350,5 +350,3 @@ El lab se considera completo cuando:
 ---
 
 **Versión**: 1.0  
-**Última actualización**: 2024  
-**Tiempo estimado**: 3-4 horas
